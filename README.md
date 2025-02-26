@@ -29,27 +29,7 @@ A responsive and user-friendly weather application that provides real-time weath
 - Web browser (Chrome, Firefox, Safari, Edge, etc.)
 - OpenWeatherMap API key
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/weather-app.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd weather-app
-   ```
-
-3. Open `index.html` in your preferred code editor.
-
-4. Replace the placeholder API key with your own OpenWeatherMap API key:
-   ```javascript
-   const apiKey = "YOUR_API_KEY"; // Replace with your actual API key
-   ```
-   > **Note**: You can obtain a free API key by signing up at [OpenWeatherMap](https://openweathermap.org/api).
-
-5. Open `index.html` in your web browser or use a local development server.
 
 **Important Note:** To make the app fully functional, you need to replace `YOUR_API_KEY` in the JavaScript code with an actual API key from OpenWeatherMap. You can get a free API key by signing up at OpenWeatherMap. The app currently displays dummy data if no API key is provided, so you can see how it looks without making actual API calls.
 
